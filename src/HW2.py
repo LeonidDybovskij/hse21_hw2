@@ -89,7 +89,7 @@ for key in sc_dict:
     # pprint(mayfly.qualifiers)
   for record in SeqIO.parse("proteins.fasta", "fasta"):
     for f in feature_list:
-      if record.id == f.qualifiers['locus_tag'][0]:
+      if record.id == f.qualifiers['locus_tag']:
         f.qualifiers['translation'] = [record.seq]
   for mil_f in mil_1_genome.features:
     if 'protein_id' not in mil_f.qualifiers:
