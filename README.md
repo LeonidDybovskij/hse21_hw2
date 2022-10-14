@@ -1,7 +1,7 @@
 Целью данного задания является аннотация генома бактерии с помощью родственного ей штамма T. oleivorans MIL-1 (http://www.ncbi.nlm.nih.gov/nuccore/HF680312).
 
 
-Установили для этого GeneMarkS-2:
+Для этого установили GeneMarkS-2 и E-utilities:
 
 ![Screenshot from 2021-12-19 13-53-57](https://user-images.githubusercontent.com/60808642/146672975-a2b3917b-cacc-4442-98bb-6e26363a9c46.png)
 ![Screenshot from 2021-12-19 13-54-10](https://user-images.githubusercontent.com/60808642/146672984-c506ca25-111f-49e3-98ae-24f35820aa8d.png)
