@@ -9,7 +9,7 @@
 
 ![Screenshot from 2021-12-19 13-54-10](https://user-images.githubusercontent.com/60808642/146672984-c506ca25-111f-49e3-98ae-24f35820aa8d.png)
 
-Скачали также базу данных белков SwissProt:
+Также скачали базу данных белков SwissProt и установили пакет seqkit:
 
 ![Screenshot from 2021-12-19 13-54-22](https://user-images.githubusercontent.com/60808642/146672989-fba50718-9713-4a82-9492-b3a13b24534f.png)
 
