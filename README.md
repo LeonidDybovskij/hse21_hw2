@@ -1,3 +1,5 @@
+[Ссылка на README на русском](README.ru.md)
+
 Целью данного задания является аннотация генома бактерии с помощью родственного ей штамма T. oleivorans MIL-1 (http://www.ncbi.nlm.nih.gov/nuccore/HF680312).
 
 
