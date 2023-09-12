@@ -3,11 +3,11 @@
 [This README in russian](README.ru.md)
 
 The purpose of this work was annotation of the genome of a bacterium *Thalassolituus oleivorans* from Barents Sea.  
-It could be done using the related strain [T. oleivorans MIL-1](http://www.ncbi.nlm.nih.gov/nuccore/HF680312) from Sicily.
+It could be done using the related strain [*T. oleivorans* MIL-1](http://www.ncbi.nlm.nih.gov/nuccore/HF680312) from Sicily.
 
 
 To do this, GeneMarkS-2 and E-utilities were installed.  
-Also the required for T. oleivorans MIL-1 data were downloaded:
+Also the required for *T. oleivorans* MIL-1 data were downloaded:
 
 ![Screenshot from 2021-12-19 13-53-57](https://user-images.githubusercontent.com/60808642/146672975-a2b3917b-cacc-4442-98bb-6e26363a9c46.png)
 
