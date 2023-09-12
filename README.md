@@ -2,7 +2,7 @@
 
 [This README in russian](README.ru.md)
 
-The purpose of this work was annotation of the genome of a bacterium Thalassolituus oleivorans from Barents Sea.  
+The purpose of this work was annotation of the genome of a bacterium *Thalassolituus oleivorans* from Barents Sea.  
 It could be done using the related strain [T. oleivorans MIL-1](http://www.ncbi.nlm.nih.gov/nuccore/HF680312) from Sicily.
 
 
