@@ -22,5 +22,4 @@ Then the work began with the *scaffolds.fasta* file from HW 1:
 
 ![Screenshot from 2021-12-19 14-07-25](https://user-images.githubusercontent.com/60808642/146673001-b907ddae-d51f-42f3-b45e-5d307be60d47.png)
 
-Next, the processing was performed in the .py file (src folder), which resulted in the *GENOME.gbk* file.  
-
+Next, the processing was performed in the .py file (src folder), which resulted in the *GENOME.gbk* file.
